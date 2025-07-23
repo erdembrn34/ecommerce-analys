@@ -1,0 +1,301 @@
+CustomerID,OrderDate,OrderAmount,ProductCategory,PaymentMethod,Region,Frequency,Recency
+1047,2023-01-28,74.96,Sports,Bank Transfer,South,3,542
+1036,2023-04-18,101.74,Clothing,Cash,North,8,462
+1032,2023-07-04,223.97,Clothing,Cash,East,20,385
+1081,2023-10-16,344.16,Home,PayPal,West,7,281
+1056,2023-10-23,425.56,Toys,Cash,East,11,274
+1018,2023-03-15,293.42,Sports,Cash,Central,12,496
+1047,2023-01-17,419.12,Electronics,Cash,Central,12,553
+1046,2023-02-22,267.92,Sports,Credit Card,East,11,517
+1066,2023-01-25,419.59,Clothing,Cash,North,9,545
+1065,2023-09-05,341.72,Electronics,Cash,West,2,322
+1100,2023-01-19,328.15,Toys,Credit Card,South,2,551
+1069,2023-02-28,345.28,Home,PayPal,West,14,511
+1033,2023-01-14,410.67,Clothing,PayPal,West,9,556
+1009,2023-04-17,165.14,Books,Cash,West,20,463
+1026,2023-11-14,399.97,Books,Cash,Central,5,252
+1028,2023-10-10,426.48,Home,PayPal,West,12,287
+1059,2023-10-17,109.85,Toys,Bank Transfer,West,9,280
+1028,2023-01-05,88.37,Home,Credit Card,South,3,565
+1077,2023-04-18,445.59,Clothing,Credit Card,West,14,462
+1093,2023-02-26,307.38,Books,Cash,North,6,513
+1071,2023-10-25,355.07,Books,Bank Transfer,West,2,272
+1003,2023-12-22,337.26,Home,Bank Transfer,South,7,214
+1073,2023-05-03,269.74,Electronics,Credit Card,Central,13,447
+1030,2023-06-07,141.77,Books,Credit Card,East,2,412
+1097,2023-01-28,449.45,Toys,PayPal,Central,12,542
+1007,2023-08-21,498.24,Home,PayPal,North,9,337
+1087,2023-05-05,448.36,Clothing,Credit Card,East,2,445
+1076,2023-12-27,488.33,Sports,Cash,North,15,209
+1020,2023-11-04,143.16,Toys,Cash,South,14,262
+1017,2023-10-04,255.91,Toys,Bank Transfer,Central,20,293
+1028,2023-11-08,116.13,Sports,PayPal,West,4,258
+1013,2023-09-03,471.38,Toys,Credit Card,South,10,324
+1041,2023-12-19,166.67,Electronics,Credit Card,Central,4,217
+1099,2023-12-31,392.13,Home,PayPal,West,11,205
+1036,2023-12-25,173.12,Clothing,Credit Card,North,14,211
+1100,2023-12-17,204.24,Toys,Cash,North,12,219
+1032,2023-08-12,255.92,Books,Bank Transfer,North,9,346
+1057,2023-08-26,287.55,Clothing,Cash,West,15,332
+1022,2023-02-27,418.25,Books,PayPal,Central,12,512
+1032,2023-06-18,249.31,Sports,Cash,West,10,401
+1058,2023-02-05,35.32,Sports,Bank Transfer,East,14,534
+1082,2023-10-01,132.54,Books,Cash,West,11,296
+1032,2023-05-05,286.08,Electronics,Bank Transfer,North,10,445
+1015,2023-08-15,313.08,Home,PayPal,West,20,343
+1019,2023-07-23,428.82,Clothing,Bank Transfer,East,1,366
+1047,2023-03-14,87.04,Toys,Bank Transfer,North,6,497
+1078,2023-12-23,411.32,Sports,Credit Card,West,16,213
+1050,2023-09-07,20.18,Toys,Credit Card,North,13,320
+1008,2023-09-27,350.38,Electronics,Credit Card,West,5,300
+1016,2023-04-22,490.86,Sports,Cash,West,12,458
+1058,2023-10-10,31.0,Electronics,PayPal,West,12,287
+1069,2023-07-30,253.58,Clothing,Credit Card,East,9,359
+1079,2023-05-15,355.55,Electronics,Bank Transfer,East,19,435
+1098,2023-08-08,26.9,Books,Cash,North,6,350
+1090,2023-05-29,60.29,Home,Credit Card,North,17,421
+1078,2023-04-21,292.61,Electronics,Credit Card,South,1,459
+1096,2023-04-19,317.02,Books,Bank Transfer,North,17,461
+1027,2023-11-02,77.23,Clothing,Credit Card,West,7,264
+1087,2023-03-14,240.07,Toys,Credit Card,West,6,497
+1008,2023-02-13,211.76,Toys,Credit Card,Central,13,526
+1010,2023-08-23,276.49,Sports,PayPal,North,3,335
+1091,2023-04-02,63.26,Books,PayPal,Central,6,478
+1015,2023-01-30,447.67,Clothing,PayPal,North,15,540
+1043,2023-10-22,62.55,Toys,Cash,South,8,275
+1067,2023-06-21,377.17,Toys,Credit Card,Central,11,398
+1017,2023-04-06,482.3,Home,Credit Card,East,13,474
+1058,2023-12-06,25.28,Electronics,PayPal,Central,16,230
+1015,2023-08-22,278.34,Books,Cash,North,18,336
+1011,2023-10-12,295.8,Electronics,Bank Transfer,East,10,285
+1028,2023-03-21,116.22,Clothing,Credit Card,North,10,490
+1044,2023-03-08,427.46,Toys,Credit Card,West,3,503
+1075,2023-05-27,42.02,Toys,Cash,Central,12,423
+1052,2023-06-17,105.67,Clothing,Bank Transfer,West,13,402
+1059,2023-08-04,424.7,Electronics,Cash,North,8,354
+1049,2023-07-26,73.89,Clothing,PayPal,East,6,363
+1031,2023-05-11,228.69,Clothing,PayPal,East,14,439
+1054,2023-04-30,341.28,Clothing,Credit Card,East,11,450
+1077,2023-02-06,264.13,Toys,Credit Card,South,19,533
+1033,2023-07-01,110.93,Books,Credit Card,West,6,388
+1009,2023-12-28,450.35,Toys,Cash,West,6,208
+1032,2023-05-01,280.69,Toys,Bank Transfer,North,8,449
+1075,2023-03-09,325.14,Sports,PayPal,Central,13,502
+1046,2023-08-01,218.62,Toys,PayPal,South,7,357
+1071,2023-12-09,470.25,Books,PayPal,South,12,227
+1030,2023-07-05,327.89,Home,Bank Transfer,South,2,384
+1020,2023-12-05,89.91,Books,Bank Transfer,East,11,231
+1070,2023-12-03,413.17,Clothing,PayPal,North,1,233
+1052,2023-07-24,288.89,Books,Bank Transfer,South,14,365
+1073,2023-05-27,405.69,Sports,Bank Transfer,Central,13,423
+1064,2023-07-08,128.92,Toys,Bank Transfer,North,20,381
+1082,2023-02-02,242.37,Books,PayPal,South,13,537
+1040,2023-03-21,261.23,Books,PayPal,West,6,490
+1000,2023-04-14,75.16,Toys,Bank Transfer,South,15,466
+1047,2023-11-01,169.35,Sports,PayPal,South,17,265
+1090,2023-06-02,374.8,Books,PayPal,South,20,417
+1073,2023-03-27,405.79,Sports,PayPal,South,5,484
+1070,2023-12-23,394.04,Electronics,Credit Card,East,20,213
+1053,2023-06-22,25.77,Clothing,Bank Transfer,South,5,397
+1045,2023-05-10,427.11,Books,Bank Transfer,North,6,440
+1098,2023-07-22,109.67,Books,Bank Transfer,South,3,367
+1061,2023-08-24,388.46,Clothing,Cash,East,14,334
+1093,2023-01-17,251.17,Clothing,Cash,South,10,553
+1063,2023-05-22,197.7,Sports,Cash,West,13,428
+1013,2023-03-03,290.21,Electronics,Cash,West,9,508
+1023,2023-06-05,81.34,Books,Cash,West,18,414
+1078,2023-10-27,50.23,Clothing,Credit Card,West,13,270
+1021,2023-06-15,82.29,Sports,Bank Transfer,South,18,404
+1034,2023-09-06,77.94,Sports,PayPal,North,1,321
+1071,2023-12-28,100.82,Electronics,Bank Transfer,Central,19,208
+1019,2023-06-15,404.55,Home,Bank Transfer,South,10,404
+1081,2023-10-10,478.89,Clothing,Credit Card,North,10,287
+1084,2023-01-28,225.2,Books,Cash,South,19,542
+1084,2023-12-09,31.07,Sports,Bank Transfer,North,7,227
+1025,2023-12-09,401.83,Electronics,Cash,East,10,227
+1045,2023-04-21,333.34,Toys,Cash,South,11,459
+1052,2023-09-05,178.13,Clothing,PayPal,South,11,322
+1028,2023-02-20,62.57,Sports,PayPal,South,16,519
+1044,2023-04-01,68.68,Toys,Bank Transfer,East,6,479
+1078,2023-11-03,456.55,Electronics,Credit Card,North,8,263
+1040,2023-04-30,266.84,Books,PayPal,East,7,450
+1098,2023-05-03,399.44,Home,Bank Transfer,South,20,447
+1046,2023-09-17,167.38,Electronics,Cash,South,4,310
+1000,2023-08-28,215.45,Sports,Credit Card,North,15,330
+1016,2023-10-16,412.06,Home,Credit Card,South,5,281
+1086,2023-08-21,22.81,Sports,Cash,Central,10,337
+1030,2023-11-27,426.41,Electronics,Bank Transfer,East,2,239
+1088,2023-09-28,177.3,Home,PayPal,East,20,299
+1010,2023-10-21,274.36,Toys,Bank Transfer,North,10,276
+1036,2023-05-06,417.39,Sports,Bank Transfer,North,5,444
+1075,2023-08-09,450.81,Toys,Cash,North,2,349
+1006,2023-03-09,255.95,Clothing,PayPal,East,6,502
+1046,2023-12-07,368.01,Books,Credit Card,North,16,229
+1051,2023-05-28,361.63,Books,Cash,East,18,422
+1042,2023-11-21,446.97,Books,PayPal,East,16,245
+1062,2023-07-02,198.37,Home,PayPal,Central,7,387
+1054,2023-08-01,22.39,Sports,PayPal,East,15,357
+1037,2023-02-24,389.45,Sports,Credit Card,Central,14,515
+1022,2023-02-23,150.62,Books,Bank Transfer,West,11,516
+1085,2023-07-12,383.36,Electronics,Bank Transfer,Central,9,377
+1003,2023-03-20,129.78,Sports,Cash,South,20,491
+1069,2023-02-06,78.31,Electronics,Bank Transfer,West,20,533
+1054,2023-04-23,329.86,Home,PayPal,East,10,457
+1025,2023-11-20,187.55,Books,Cash,Central,12,246
+1004,2023-12-11,457.61,Home,PayPal,North,6,225
+1077,2023-08-04,267.28,Sports,Cash,Central,8,354
+1083,2023-03-02,484.5,Books,PayPal,North,13,509
+1065,2023-04-16,239.38,Toys,PayPal,West,11,464
+1020,2023-12-22,309.1,Books,Cash,East,7,214
+1051,2023-01-03,450.49,Electronics,PayPal,West,19,567
+1046,2023-06-20,462.42,Electronics,Credit Card,East,3,399
+1020,2023-09-11,260.77,Clothing,Bank Transfer,East,16,316
+1040,2023-02-12,190.15,Home,PayPal,East,7,527
+1045,2023-10-13,134.97,Electronics,Bank Transfer,South,20,284
+1009,2023-01-28,312.95,Books,Cash,West,16,542
+1052,2023-01-21,361.23,Sports,Cash,South,6,549
+1029,2023-10-30,195.24,Home,Credit Card,East,11,267
+1076,2023-02-17,141.71,Books,Credit Card,South,11,522
+1047,2023-05-21,386.59,Electronics,Bank Transfer,East,13,429
+1013,2023-07-08,295.01,Electronics,PayPal,West,6,381
+1032,2023-01-26,98.03,Electronics,Cash,West,1,544
+1088,2023-09-04,41.06,Sports,PayPal,South,10,323
+1036,2023-05-25,355.21,Sports,Credit Card,West,12,425
+1070,2023-01-23,67.66,Electronics,Credit Card,South,14,547
+1099,2023-06-09,99.24,Electronics,Bank Transfer,North,5,410
+1094,2023-12-02,427.99,Electronics,PayPal,West,12,234
+1026,2023-09-30,304.33,Books,Cash,Central,6,297
+1044,2023-01-10,13.07,Books,PayPal,West,9,560
+1051,2023-08-08,188.35,Home,Bank Transfer,North,14,350
+1055,2023-12-21,143.57,Home,PayPal,South,19,215
+1060,2023-02-10,394.2,Electronics,Credit Card,South,12,529
+1039,2023-04-11,495.4,Clothing,Bank Transfer,East,4,469
+1092,2023-09-08,154.9,Sports,Credit Card,West,7,319
+1079,2023-08-02,128.14,Sports,PayPal,Central,13,356
+1002,2023-08-10,214.71,Toys,PayPal,South,15,348
+1055,2023-03-19,178.61,Home,Credit Card,Central,4,492
+1006,2023-04-15,283.48,Sports,Bank Transfer,Central,18,465
+1055,2023-07-27,282.3,Home,PayPal,Central,5,362
+1093,2023-02-06,316.96,Electronics,PayPal,South,10,533
+1008,2023-11-14,163.83,Sports,Cash,West,4,252
+1068,2023-04-21,188.93,Electronics,PayPal,South,18,459
+1016,2023-08-05,444.73,Electronics,Credit Card,East,19,353
+1050,2023-03-28,282.17,Books,Cash,South,8,483
+1012,2023-09-24,192.17,Clothing,Cash,North,5,303
+1001,2023-05-30,295.62,Sports,Bank Transfer,West,11,420
+1096,2023-09-11,405.93,Toys,Cash,South,2,316
+1013,2023-03-25,14.63,Books,Cash,South,7,486
+1079,2023-11-27,118.35,Electronics,Bank Transfer,Central,13,239
+1080,2023-06-14,368.02,Clothing,Cash,South,4,405
+1036,2023-08-20,387.57,Toys,PayPal,Central,7,338
+1013,2023-05-25,353.45,Sports,Bank Transfer,West,12,425
+1025,2023-06-25,247.23,Toys,Bank Transfer,East,9,394
+1058,2023-06-07,135.75,Electronics,Credit Card,North,6,412
+1098,2023-11-24,283.11,Electronics,Bank Transfer,West,14,242
+1032,2023-06-13,133.64,Electronics,PayPal,Central,1,406
+1057,2023-04-28,126.93,Books,Bank Transfer,Central,4,452
+1052,2023-01-14,437.77,Clothing,Bank Transfer,South,13,556
+1062,2023-12-31,254.06,Home,Bank Transfer,North,16,205
+1015,2023-06-16,219.32,Electronics,Cash,North,20,403
+1040,2023-08-17,229.4,Books,PayPal,North,19,341
+1067,2023-02-28,452.25,Books,Credit Card,East,19,511
+1025,2023-10-23,218.58,Books,PayPal,Central,7,274
+1085,2023-02-05,383.4,Home,PayPal,South,4,534
+1035,2023-04-22,451.15,Clothing,Credit Card,North,13,458
+1052,2023-09-12,269.97,Toys,Cash,East,13,315
+1048,2023-07-04,18.71,Clothing,Credit Card,North,18,385
+1071,2023-05-07,178.38,Electronics,Cash,Central,17,443
+1046,2023-03-27,319.0,Books,Credit Card,North,17,484
+1039,2023-05-26,134.54,Clothing,Cash,North,3,424
+1011,2023-05-22,361.34,Electronics,Bank Transfer,East,17,428
+1054,2023-09-06,264.52,Home,Cash,South,14,321
+1015,2023-06-27,162.47,Electronics,PayPal,Central,7,392
+1092,2023-07-14,237.86,Sports,Credit Card,West,6,375
+1022,2023-09-30,397.89,Books,PayPal,Central,18,297
+1007,2023-05-23,390.59,Sports,Credit Card,East,11,427
+1073,2023-03-29,339.31,Sports,PayPal,Central,14,482
+1003,2023-11-12,379.26,Sports,Bank Transfer,Central,10,254
+1056,2023-11-10,454.76,Toys,PayPal,Central,12,256
+1081,2023-11-27,409.22,Home,Bank Transfer,South,1,239
+1003,2023-07-18,165.35,Toys,Bank Transfer,Central,8,371
+1006,2023-05-18,39.65,Clothing,PayPal,East,16,432
+1041,2023-04-07,183.65,Electronics,PayPal,North,14,473
+1021,2023-11-16,343.41,Books,Credit Card,Central,5,250
+1059,2023-03-23,59.38,Home,Credit Card,East,8,488
+1069,2023-12-26,254.45,Toys,Credit Card,North,15,210
+1047,2023-01-15,204.87,Sports,Bank Transfer,Central,14,555
+1027,2023-09-26,244.22,Electronics,Bank Transfer,East,11,301
+1055,2023-09-25,267.54,Electronics,Bank Transfer,North,2,302
+1052,2023-01-12,147.69,Books,Cash,Central,6,558
+1009,2023-11-04,262.35,Books,Bank Transfer,Central,6,262
+1082,2023-04-19,272.34,Sports,Credit Card,South,10,461
+1090,2023-03-29,358.32,Home,Credit Card,South,1,482
+1039,2023-11-17,31.61,Electronics,Cash,West,12,249
+1059,2023-11-15,383.55,Toys,Cash,North,7,251
+1017,2023-09-11,356.72,Home,Bank Transfer,West,11,316
+1017,2023-04-03,270.91,Sports,Credit Card,North,10,477
+1063,2023-07-01,177.64,Sports,PayPal,North,4,388
+1093,2023-05-30,203.65,Clothing,PayPal,East,11,420
+1066,2023-11-02,470.33,Sports,Bank Transfer,West,3,264
+1002,2023-09-15,154.24,Toys,Cash,Central,19,312
+1061,2023-05-09,471.72,Clothing,Cash,Central,7,441
+1054,2023-04-06,356.77,Home,Bank Transfer,Central,14,474
+1035,2023-07-14,187.92,Home,Cash,West,17,375
+1082,2023-05-29,76.01,Electronics,Credit Card,West,2,421
+1087,2023-05-16,437.99,Home,PayPal,West,15,434
+1065,2023-06-17,127.75,Home,PayPal,East,2,402
+1078,2023-03-14,430.31,Clothing,Credit Card,Central,14,497
+1056,2023-01-11,278.93,Toys,Cash,South,2,559
+1072,2023-09-16,63.96,Electronics,Cash,South,7,311
+1040,2023-08-22,20.54,Electronics,Cash,South,7,336
+1058,2023-02-17,255.03,Sports,PayPal,North,17,522
+1053,2023-03-29,391.47,Sports,Bank Transfer,North,13,482
+1029,2023-04-29,358.04,Books,Cash,Central,9,451
+1095,2023-07-16,214.65,Books,Credit Card,West,16,373
+1004,2023-06-23,108.12,Sports,Credit Card,Central,2,396
+1059,2023-10-31,198.79,Home,Cash,North,4,266
+1040,2023-04-19,456.55,Sports,Bank Transfer,West,13,461
+1099,2023-08-12,309.32,Sports,Bank Transfer,West,5,346
+1082,2023-06-02,292.33,Electronics,Bank Transfer,Central,8,417
+1052,2023-08-31,451.77,Home,Bank Transfer,Central,10,327
+1023,2023-12-06,255.84,Clothing,Bank Transfer,South,4,230
+1071,2023-03-29,496.92,Sports,Bank Transfer,North,12,482
+1059,2023-02-18,158.25,Toys,Cash,West,10,521
+1084,2023-11-02,233.87,Home,PayPal,South,9,264
+1037,2023-02-03,255.67,Home,Credit Card,South,20,536
+1013,2023-07-24,342.22,Clothing,Bank Transfer,East,4,365
+1037,2023-12-05,190.56,Books,Cash,East,20,231
+1086,2023-01-13,217.01,Clothing,Cash,West,17,557
+1035,2023-05-28,161.34,Sports,PayPal,North,18,422
+1071,2023-10-19,87.15,Electronics,PayPal,East,18,278
+1063,2023-01-06,339.46,Electronics,Bank Transfer,Central,11,564
+1042,2023-09-19,407.57,Electronics,Credit Card,North,19,308
+1051,2023-02-25,72.63,Electronics,Credit Card,North,8,514
+1025,2023-04-10,173.16,Books,Bank Transfer,South,2,470
+1033,2023-09-21,399.44,Toys,PayPal,North,19,306
+1036,2023-11-12,451.15,Home,PayPal,South,5,254
+1021,2023-12-06,59.27,Sports,Cash,West,10,230
+1054,2023-12-10,349.44,Home,Cash,East,6,226
+1030,2023-02-04,190.72,Home,Bank Transfer,North,12,535
+1042,2023-03-24,294.69,Clothing,Bank Transfer,Central,14,487
+1037,2023-10-15,130.98,Clothing,Bank Transfer,North,9,282
+1034,2023-03-17,463.55,Electronics,Credit Card,North,4,494
+1020,2023-02-06,197.39,Home,Bank Transfer,North,17,533
+1085,2023-02-28,301.85,Toys,Bank Transfer,West,5,511
+1095,2023-06-14,33.91,Sports,Credit Card,West,17,405
+1003,2023-09-06,265.3,Sports,Bank Transfer,North,14,321
+1057,2023-01-24,398.71,Books,PayPal,West,18,546
+1065,2023-03-07,479.31,Clothing,Bank Transfer,South,20,504
+1015,2023-10-09,317.03,Toys,PayPal,South,19,288
+1073,2023-01-12,31.31,Sports,Bank Transfer,South,6,558
+1082,2023-10-18,485.15,Toys,Credit Card,Central,4,279
+1024,2023-05-14,193.67,Electronics,Bank Transfer,West,16,436
+1013,2023-05-20,397.07,Sports,Bank Transfer,South,7,430
+1076,2023-06-21,14.27,Home,Cash,South,18,398
+1069,2023-10-23,54.29,Electronics,Credit Card,West,10,274
+1047,2023-08-24,191.42,Clothing,PayPal,West,6,334
+1045,2023-10-25,414.88,Books,Cash,East,1,272
+1078,2023-10-21,457.45,Clothing,PayPal,South,2,276
+1074,2023-03-30,352.25,Clothing,Credit Card,Central,9,481
+1066,2023-08-09,399.26,Toys,Cash,East,5,349
+1009,2023-12-10,342.86,Home,Bank Transfer,North,20,226
